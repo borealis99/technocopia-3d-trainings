@@ -18,6 +18,7 @@ prints are never food-safe
 go over the tools present on the bench  
 print failures happen all the time, sometimes they even damage the printer , that's life , but you may be held responsible if it is clear that you failed to follow procedure  
 if you put your body or any other object into a moving printer and there is damage , Technocopia is not responsible
+show them the "est cost" in prusaslicer
 
 ### What we WON'T cover
 
@@ -31,7 +32,6 @@ if you put your body or any other object into a moving printer and there is dama
 
 - no printing models for sale
 - no prints longer than 36 hours
-- you mus
 
 # Things to Collect
 
