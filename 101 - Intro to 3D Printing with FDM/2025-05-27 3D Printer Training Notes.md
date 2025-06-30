@@ -31,6 +31,7 @@ if you put your body or any other object into a moving printer and there is dama
 
 - no printing models for sale
 - no prints longer than 36 hours
+- you mus
 
 # Things to Collect
 
