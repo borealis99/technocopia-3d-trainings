@@ -12,7 +12,7 @@ first layer is the most important
 a well adhered first layer keeps the part in place for the rest of the print  
 watch the entire first layer before you leave the printer  
 prints are weakest vertically  
-prints are mostly hollow  
+prints are mostly hollow  `![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./layer-lines-cross-sections)`
 prints are not waterproof  
 prints are never food-safe 
 ![[layer-lines-cross-sections.png]]
