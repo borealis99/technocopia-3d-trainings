@@ -14,6 +14,7 @@ watch the entire first layer before you leave the printer
 prints are weakest vertically  
 prints are mostly hollow  
 prints are not waterproof  
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)`
 prints are never food-safe 
 ![[layer-lines-cross-sections.png]]
 go over the tools present on the bench  
