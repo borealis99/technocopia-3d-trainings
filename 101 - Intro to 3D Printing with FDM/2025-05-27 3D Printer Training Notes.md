@@ -14,7 +14,8 @@ watch the entire first layer before you leave the printer
 prints are weakest vertically  
 prints are mostly hollow  
 prints are not waterproof  
-prints are never food-safe  
+prints are never food-safe 
+![[1995_stratasys_fdm_brick_layer_patent_drawings.webp]]
 go over the tools present on the bench  
 print failures happen all the time, sometimes they even damage the printer , that's life , but you may be held responsible if it is clear that you failed to follow procedure  
 if you put your body or any other object into a moving printer and there is damage , Technocopia is not responsible
